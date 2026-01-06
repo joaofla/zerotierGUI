@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ZeroTierGUI
+Exec=python3 /usr/bin/zerotier_tray.py
+Icon=/usr/share/icons/hicolor/ZT-Icon.png
+Terminal=false
+Categories=Utility;
+Comment=Manage ZeroTier service with a system tray icon.
