@@ -3,7 +3,7 @@ Version: 1.0.0
 Section: utils
 Priority: optional
 Architecture: all
-Depends: python3, python3-pil, python3-pystray, zerotier-one
+Depends: python3, python3-pil, python3-pystray, python3-tk, zerotier-one
 Maintainer: joaola
 Description: A control script for managing ZeroTier service with a system tray icon.
  This script allows you to start, stop, and check the status of the ZeroTier service.
